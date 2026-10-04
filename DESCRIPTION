@@ -1,7 +1,8 @@
 Package: yaleBraille
 Type: Package
 Title: Generate Braille-Enabled Graphics
-Version: 0.2.2
+Version: 0.2.3
+Date: 2026-10-03
 Authors@R: c(
     person(
         given = "Mike",
@@ -17,7 +18,7 @@ Authors@R: c(
     )
   )
 Description: Provides tools for rendering and visualizing 
-    Braille patterns in R, using the liblouis translation library. 
+    Braille patterns in R, using the 'liblouis' translation library. 
     For more information see <https://github.com/wininger/yaleBraille>.
 License: LGPL (>= 2.1)
 Imports: grDevices, graphics, stats, sysfonts, showtext
@@ -32,12 +33,12 @@ LazyData: true
 Suggests: knitr, rmarkdown, spelling
 VignetteBuilder: knitr
 RoxygenNote: 7.3.3
-Packaged: 2026-09-22 16:08:43 UTC; wininger
+Depends: R (>= 3.5.0)
+Packaged: 2026-10-03 12:41:02 UTC; wininger
 Author: Mike Wininger [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-7871-3292>),
   liblouis contributors [ctb, cph] (Authors of the bundled liblouis C
     library (https://liblouis.io))
 Maintainer: Mike Wininger <michael.wininger@yale.edu>
-Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2026-10-02 09:50:02 UTC
+Date/Publication: 2026-10-04 23:20:02 UTC

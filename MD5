@@ -1,4 +1,4 @@
-151ad87d6086d83ca01fb10007a01ff0 *DESCRIPTION
+59ffe8d4f81cff7e9ef94b41e3c24d9d *DESCRIPTION
 7be2dcee78bf46bebbdbc3a6087207fe *NAMESPACE
 33c8cbe9d48456bbdc1e442ceaf01f28 *R/barplot_br.R
 69143cd3cc2546d90cf3a49a4d038cd4 *R/boxplot_br.R
@@ -6,7 +6,7 @@ aeb056717c00c91b1051e755875b55ff *R/fn_annoExchange.R
 7849ef6bb37db7b9ae9f59519e86e587 *R/fn_axisMakr.R
 45f8227fd41bd4f8c14dd63dd9b11fc1 *R/fn_formulaExtractr.R
 2230519d5bc08994232b70f9e53b70ed *R/fn_limFindr.R
-74f874f39de7097c1fde093402781bdb *R/fn_plotInitializr.R
+c093c1ca0598bc933f0d1308db0d9252 *R/fn_plotInitializr.R
 dcba577b4db5c09b440fa0b86e089b8e *R/fn_plotTickr.R
 b2f6f89d5a6da1828e56d31c38582fcf *R/fn_titleMakr.R
 058b15c0865080d74caf9e827ebb46c0 *R/fn_toBraille.R
